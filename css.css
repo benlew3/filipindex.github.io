@@ -1,0 +1,38 @@
+.profile1,.profile2,.profile3,.profile4,.profile5,.profile6,.profile7,.profile8,.profile9,.profile10{
+  width: 5vw;
+  margin-bottom: 2vh;
+}
+.blogger{
+  list-style-type:none;
+}
+#Al,#Ben,#Flo,#Jez,#Josh,#MJ,#Kyla,#Lolo,#Myles,#Rizza{
+  display: none;
+  border-style: solid;
+  width: 10vw;
+  margin:2vh auto;
+}
+.blog{
+  margin-bottom: 3vh;
+}
+.writers{
+  text-align: center;
+}
+ul{
+  padding: 0;
+}
+h1{
+  text-align: center;
+}
+
+.docs{
+  padding: 0 18px;
+  background-color: white;
+}
+
+.docs2,.docs3,.docs4,.docs5,.docs6,.docs7 {
+
+    display: none;
+}
+.post,.post2,.post3,.post4,.post5,.post6,.post7{
+  width: 55vw;
+}
