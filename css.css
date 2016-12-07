@@ -27,12 +27,19 @@ h1{
 .docs{
   padding: 0 18px;
   background-color: white;
+  font-size: 13px;
+  margin-top: 2vh;
 }
-
-.docs2,.docs3,.docs4,.docs5,.docs6,.docs7 {
-
-    display: none;
+.source{
+  font-size: 10px;
 }
-.post,.post2,.post3,.post4,.post5,.post6,.post7{
+.docs2,.docs3,.docs4,.docs5,.docs6,.docs7,.docs8,.docs9,.docs10,.docs11,.docs12,.docs13,.docs14,.docs15,.docs16,.docs17,.docs18,.docs19,.docs20 {
+  padding: 0 18px;
+  background-color: white;
+  font-size: 13px;
+  margin-top: 2vh;
+  display: none;
+}
+.post,.post2,.post3,.post4,.post5,.post6,.post7,.post8,.post9,.post10,.post11,.post12,.post13,.post14,.post15,.post16,.post17,.post18,.post19,.post20{
   width: 55vw;
 }
