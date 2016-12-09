@@ -1,3 +1,14 @@
+.runningrace{
+  background-image: url("img/Sugarcane.png");
+  background-repeat: no-repeat;
+  background-size: 100vw;
+  background-attachment: fixed;
+}
+.title{
+  font-size: 55px;
+  color:white;
+  font-family: 'Libre Franklin', sans-serif;
+}
 .profile1,.profile2,.profile3,.profile4,.profile5,.profile6,.profile7,.profile8,.profile9,.profile10{
   width: 5vw;
   margin-bottom: 2vh;
@@ -13,9 +24,12 @@
 }
 .blog{
   margin-bottom: 3vh;
+
 }
 .writers{
   text-align: center;
+  color:white;
+  font-family: 'Muli', sans-serif;
 }
 ul{
   padding: 0;
@@ -26,9 +40,12 @@ h1{
 
 .docs{
   padding: 0 18px;
+  padding-top: 2vh;
   background-color: white;
   font-size: 13px;
   margin-top: 2vh;
+    border-radius: 15px;
+    width: 850px;
 }
 .source{
   font-size: 10px;
@@ -38,8 +55,11 @@ h1{
   background-color: white;
   font-size: 13px;
   margin-top: 2vh;
+  border-top: 2vh;
   display: none;
+  border-radius: 15px;
+  width: 850px;
 }
 .post,.post2,.post3,.post4,.post5,.post6,.post7,.post8,.post9,.post10,.post11,.post12,.post13,.post14,.post15,.post16,.post17,.post18,.post19,.post20{
-  width: 55vw;
+  width: 850px;
 }
