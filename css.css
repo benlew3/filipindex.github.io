@@ -15,14 +15,12 @@
   background-repeat: no-repeat;
   background-size: auto;
   background-attachment: fixed;
-  width: 100vw;
 }
 .health{
   background-image: url("img/soccer.jpg");
   background-repeat: no-repeat;
   background-size: auto;
   background-attachment: fixed;
-  width: 100vw;
 }
 .bio{
   font-size: 12px;
