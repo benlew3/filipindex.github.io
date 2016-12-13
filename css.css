@@ -10,6 +10,13 @@
   background-size: auto;
   background-attachment: fixed;
 }
+.sexuality{
+  background-image: url("img/bathroom.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-attachment: fixed;
+  width: 100vw;
+}
 .bio{
   font-size: 12px;
   color:black;
